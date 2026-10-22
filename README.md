@@ -4,7 +4,7 @@ An admin dashboard for managing the thesis (*skripsi*) process at a university: 
 Final project (UAS) for the **Web Development** course, Information Systems, Tarumanagara University, academic year 2025–2026.
 
 
-![Dashboard](Screenshots/Dashboard.png)
+![Dashboard](Main/Screenshots/Dashboard.png)
 
 ## Features
 - **Login with session-based access.** Management pages redirect to the login page when there is no active session. Logout ends the session.
