@@ -4,7 +4,7 @@ An admin dashboard for managing the thesis (*skripsi*) process at a university: 
 Final project (UAS) for the **Web Development** course, Information Systems, Tarumanagara University, academic year 2025–2026.
 
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ## Features
 - **Login with session-based access.** Management pages redirect to the login page when there is no active session. Logout ends the session.
@@ -15,13 +15,13 @@ Final project (UAS) for the **Web Development** course, Information Systems, Tar
 - **Sidebar navigation** adapted from the SB Admin template so every form is reachable from the dashboard menu.
 
 ## Screenshots
-| Login | Student list |
+| Student Input | Thesis Examination Input |
 |---|---|
-| ![Login](docs/screenshots/login.png) | ![Students](docs/screenshots/students.png) |
+| ![Student Input](Screenshots/StudentInput.png) | ![Thesis Examination Input](Screenshots/ThesisExaminationInput.png) |
 
-| Add exam schedule | Exam list with photos |
-|---|---|
-| ![Exam form](docs/screenshots/exam-form.png) | ![Exam list](docs/screenshots/exam-list.png) |
+| Edit and Delete Students |
+|---|
+| ![edit and delete students](Screenshots/EditDeleteStudents.png) |
 
 ## Database
 MySQL database named `tugasakhir` with 10 tables:
